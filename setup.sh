@@ -16,9 +16,9 @@ readonly METADATA="$THEMES_DIR/$THEME_NAME/metadata.desktop"
 readonly DATE=$(date +%s)
 
 readonly -a THEMES=(
-    "astronaut" "black_hole" "cyberpunk" "hyprland_kath" "jake_the_dog"
+    "astronaut" "black_hole" "calm_sea" "cyberpunk" "hyprland_kath" "jake_the_dog"
     "japanese_aesthetic" "pixel_sakura" "pixel_sakura_static"
-    "post-apocalyptic_hacker" "purple_leaves" "sea"
+    "post-apocalyptic_hacker" "purple_leaves"
 )
 
 # Logging with gum fallback
